@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Civilix</string>
+
+    <array name="departments">
+        <item>Government</item>
+        <item>NGO</item>
+        <item>Residential</item>
+        <item>Industry</item>
+        <item>others</item>
+    </array>
+
+    <array name="inflowType">
+        <item>Console</item>
+        <item>Agency</item>
+        <item>Others</item>
+    </array>
+    <array name="outflowType">
+        <item>Masion</item>
+        <item>Purchase</item>
+        <item>Other Expenses</item>
+    </array>
+</resources>
